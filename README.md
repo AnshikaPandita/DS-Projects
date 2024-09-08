@@ -16,7 +16,7 @@ Payment History: The system keeps track of payments made, allowing users to revi
 Event Completion: Successfully completed events are archived for reference and auditing purposes.
 Customer Ratings: Users can assign ratings to events, providing valuable feedback for continuous improvement.
 Data Structures Used:
-The project utilizes several data structures, including HashMap, ArrayList, and linked lists, for efficient data organization and manipulation. HashMap is employed to manage customer and event details, while ArrayList is used to store payment amounts and event ratings. Linked lists facilitate queue management for upcoming events and event completion.
+The project utilizes several data structures, including  ArrayList, and linked lists, for efficient data organization and manipulation. H ArrayList is used to store payment amounts and event ratings. Linked lists facilitate queue management for upcoming events and event completion.
 
 Purpose:
 The Event Management System - Picture Perfect demonstrates proficiency in Java programming and data structure utilization, showcasing the practical implementation of software development principles in event planning and management. The project offers a user-friendly interface for event professionals, simplifying event coordination and enhancing customer satisfaction.
